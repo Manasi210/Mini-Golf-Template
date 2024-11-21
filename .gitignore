@@ -70,3 +70,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Assets/Prefabs/Sketchfab/Dragon/source/M_B_44_Qishilong_skin_Skeleton.FBX
+/Assets/Prefabs/Sketchfab/Dragon/source/M_B_44_Qishilong_skin_Skeleton.FBX.meta
